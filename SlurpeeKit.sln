@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlurpeeKit", "KaiKit\SlurpeeKit.csproj", "{17289F0B-8EF4-43C3-BE73-4D50BD665C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17289F0B-8EF4-43C3-BE73-4D50BD665C7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17289F0B-8EF4-43C3-BE73-4D50BD665C7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17289F0B-8EF4-43C3-BE73-4D50BD665C7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17289F0B-8EF4-43C3-BE73-4D50BD665C7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C691D5CC-8F3D-4803-9185-04AEAA5B5AF6}
+	EndGlobalSection
+EndGlobal
